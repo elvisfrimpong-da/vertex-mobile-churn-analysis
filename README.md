@@ -112,6 +112,6 @@ The following steps were taken to analyze the Vertex Mobile Net customer churn d
 
 For questions, feedback, or collaboration opportunities:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/elvisfrimpong)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/elvisfrimpong)
 - **Email:** elvisfrimpong.da@gmail.com
 
