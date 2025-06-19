@@ -29,7 +29,6 @@ Using Power BI as the primary BI tool, the analysis investigates key factors inf
     - **Contract and Payment:** Contract type (Month-to-Month, One Year, Two Year), Payment method (Paper Check, Direct Debit, Credit Card)
     - **Subscription Types & Charges:** Account length (months), Local calls, International calls/minutes, International plan, Extra international charges, Avg monthly GB download, Unlimited data plan, Extra data charges, Monthly charges, Total charges
     - **Customer Service:** Number of customer service calls
-- **Time Period:** [Please specify the time period if known, e.g., Jan 2023 – Dec 2023]
 - **Preprocessing:** Data cleaning included removing duplicates, handling missing values, verifying data types, creating age groups, extracting features, and removing irrelevant columns for analysis.
 
 
@@ -63,7 +62,6 @@ The following steps were taken to analyze the Vertex Mobile Net customer churn d
 
 
 
-## Key Findings
 ## Key Findings
 
 - **Overall Churn Rate:** The churn rate among customers was 26.86%, with 1,796 out of 6,687 customers churning during the analysis period.
